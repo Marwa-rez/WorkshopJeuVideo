@@ -74,7 +74,9 @@ function _update()
 		-- todo: flux!
 		-- il faut d'abord changer
 		-- les coordonnees de la tete
-		-- puis deplace la tete
+		-- puis déplacer la tete
+		-- N.B : il faut update les coordonnées 
+		-- qui stockent la position précédente de la tête
 	
 	end	
 	
